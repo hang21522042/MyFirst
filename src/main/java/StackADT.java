@@ -1,4 +1,4 @@
-//Test thay doi
+//Test thay doi 2222222
 public interface StackADT <T>{
 
     public void push(T item);
